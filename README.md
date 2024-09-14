@@ -11,3 +11,13 @@ En la materia de algebra hemos estado viendo matrices y vectores, asi como sus p
 ## Sistemas Operativos
 ### Rebecca Rodríguez
 En sistemas operativos (tambien llamado fundamento de los computadores) hemos visto la historia de la computación desde sus incicios hasta la implementación de la web 3.0, ademas de los conceptos mas basicos de redes como el OSI Model y el TCP/IP Model.
+
+## Matemáticas
+### Rogelio Trejo
+En matemáticas 1 hemos abordado bastantes temas como:
+- Tipos de números
+- Binario
+- Funciones
+- Parábola
+- Función exponencial
+- Decrecimiento exponencial
