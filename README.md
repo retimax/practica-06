@@ -21,3 +21,7 @@ En matemáticas 1 hemos abordado bastantes temas como:
 - Parábola
 - Función exponencial
 - Decrecimiento exponencial
+
+## Programación 1 
+### Jonathan Miranda
+En la materia de programación 1 hemos aprendido Markdown y como llevar un buen flujo de trabajo implementando Git y utilizamos la plataforma de GitHub para subir nuestras practicas.
