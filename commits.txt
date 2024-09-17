@@ -1,0 +1,47 @@
+commit a7f83e12b247b8096c2543ef605edb3590c29070
+Author: Karol <karolrener@gmail.com>
+Date:   Tue Sep 17 13:03:47 2024 -0600
+
+    Cambiando formato de commits.log
+
+commit def9b07b912398944b603487b9d6072de5b4b6f3
+Author: Karol <karolrener@gmail.com>
+Date:   Sat Sep 14 11:13:19 2024 -0600
+
+    Agregando documento de logs
+
+commit fc64c67ecae1d7afb63f07605a1ac296888ff6c8
+Author: Karol <karolrener@gmail.com>
+Date:   Sat Sep 14 11:10:59 2024 -0600
+
+    Programación 1
+
+commit 4bdab1999ece52c068fd958f5e0dbac9c7964b98
+Author: Karol <karolrener@gmail.com>
+Date:   Sat Sep 14 11:01:50 2024 -0600
+
+    Matematicas 1
+
+commit d7f3592b1543b21c55a737cb198b279961b3031f
+Author: Karol <karolrener@gmail.com>
+Date:   Sat Sep 14 10:55:08 2024 -0600
+
+    Sistemas Operativos
+
+commit 767c90c52ef60274f49402f4bd11186a00df23b9
+Author: Karol <karolrener@gmail.com>
+Date:   Sat Sep 14 10:50:49 2024 -0600
+
+    Algebra
+
+commit 84644cc2afbd9d5a98ddb366c1f1f7b81f26537d
+Author: Karol <karolrener@gmail.com>
+Date:   Sat Sep 14 10:44:12 2024 -0600
+
+    Introducción a la ciberseguridad
+
+commit 5b93b7370a99c9bdd5fa0cfe37356392284043c1
+Author: Karol <karolrener@gmail.com>
+Date:   Sat Sep 14 10:36:58 2024 -0600
+
+    Primer commit
