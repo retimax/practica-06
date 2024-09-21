@@ -28,4 +28,6 @@ En la materia de programación 1 hemos aprendido Markdown y como llevar un buen 
 
 ---
 
-Creando la version 1.0.0 de este repositorio
+Creando la versión 1.0.0 de este repositorio
+
+Creando la versión 1.1.0 de este repositorio
