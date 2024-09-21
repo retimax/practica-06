@@ -25,3 +25,7 @@ En matemáticas 1 hemos abordado bastantes temas como:
 ## Programación 1 
 ### Jonathan Miranda
 En la materia de programación 1 hemos aprendido Markdown y como llevar un buen flujo de trabajo implementando Git y utilizamos la plataforma de GitHub para subir nuestras practicas.
+
+---
+
+Creando la version 1.0.0 de este repositorio
