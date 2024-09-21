@@ -1,3 +1,9 @@
+commit 8db48b60585ccfa361be07ed81e87ad4637966e2
+Author: Karol <karolrener@gmail.com>
+Date:   Tue Sep 17 13:03:47 2024 -0600
+
+    Cambiando formato de commits.log
+
 commit a7f83e12b247b8096c2543ef605edb3590c29070
 Author: Karol <karolrener@gmail.com>
 Date:   Tue Sep 17 13:03:47 2024 -0600
